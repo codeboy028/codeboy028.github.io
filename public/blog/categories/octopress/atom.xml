@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | Code Boy pages]]></title>
+  <link href="http://codeboy028.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://codeboy028.github.io/"/>
+  <updated>2013-12-07T17:40:33+07:00</updated>
+  <id>http://codeboy028.github.io/</id>
+  <author>
+    <name><![CDATA[codeboy028]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The First Post to Test Octopress in codeboy028.github.io]]></title>
+    <link href="http://codeboy028.github.io/blog/2013/12/07/the-first-post-to-test-octopress-in-codeboy028-dot-github-dot-io/"/>
+    <updated>2013-12-07T17:32:06+07:00</updated>
+    <id>http://codeboy028.github.io/blog/2013/12/07/the-first-post-to-test-octopress-in-codeboy028-dot-github-dot-io</id>
+    <content type="html"><![CDATA[<p>The first post to test Octopress in codeboy028.github.io &mdash; added by TKT</p>
+]]></content>
+  </entry>
+  
+</feed>
